@@ -1,4 +1,4 @@
-# hello-world
+# hello-world - with my excellent new feature!
 My first experience with github 
 This is my first job as a Technical project manager.  I'm learning Github to be more effective with the team.
 So far the instructions for "hello-world" have been easy to follow.
@@ -11,3 +11,4 @@ A camel.
 
 merge 2 test
 
+Wow this is amazing.
