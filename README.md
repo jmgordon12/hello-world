@@ -5,4 +5,8 @@ So far the instructions for "hello-world" have been easy to follow.
 
 Who knows, maybe before long I'll be writing my own code!
 
-Let's see how this works first
+what do you get when too many PMs try and design a horse?
+
+A camel.
+
+
